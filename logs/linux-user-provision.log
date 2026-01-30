@@ -1,0 +1,61 @@
+2026-01-30 10:52:53 [INFO] User created: pedrohb home=/home/pedrohb shell=/bin/bash
+2026-01-30 10:52:53 [INFO] Password locked for user: pedrohb
+2026-01-30 10:53:28 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 10:53:28 [ERROR] SSH key rotation failed
+2026-01-30 10:53:50 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 10:53:50 [ERROR] SSH key rotation failed
+2026-01-30 10:54:52 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 10:54:52 [ERROR] SSH key rotation failed
+2026-01-30 10:55:31 [WARN] Excluding user=pedrohb remove_home=yes
+2026-01-30 10:55:31 [INFO] User deleted with home: pedrohb
+2026-01-30 11:00:18 [INFO] User created: pedrohb home=/home/pedrohb shell=/bin/bash
+2026-01-30 11:00:18 [INFO] Groups updated: pedrohb -> sudo
+2026-01-30 11:00:18 [INFO] Password locked for user: pedrohb
+2026-01-30 11:03:04 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:03:04 [ERROR] SSH key rotation failed
+2026-01-30 11:03:38 [WARN] User already exists: pedrohb
+2026-01-30 11:03:38 [INFO] Groups updated: pedrohb -> sudo
+2026-01-30 11:03:38 [INFO] Password locked for user: pedrohb
+2026-01-30 11:04:06 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:04:06 [ERROR] SSH key rotation failed
+2026-01-30 11:05:22 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:05:22 [ERROR] SSH key rotation failed
+2026-01-30 11:09:21 [WARN] User already exists: pedrohb
+2026-01-30 11:09:21 [INFO] User added to sudo group: pedrohb
+2026-01-30 11:09:21 [INFO] Password locked for user: pedrohb
+2026-01-30 11:09:40 [WARN] Excluding user=pedrohb remove_home=yes
+2026-01-30 11:09:40 [INFO] User deleted with home: pedrohb
+2026-01-30 11:09:45 [INFO] User created: pedrohb home=/home/pedrohb shell=/bin/bash
+2026-01-30 11:09:45 [INFO] User added to sudo group: pedrohb
+2026-01-30 11:09:45 [INFO] Password locked for user: pedrohb
+2026-01-30 11:11:44 [WARN] Excluding user=pedrohb (with home)
+2026-01-30 11:11:44 [INFO] User deleted with home: pedrohb
+2026-01-30 11:11:50 [INFO] User created: pedrohb home=/home/pedrohb shell=/bin/bash
+2026-01-30 11:11:50 [INFO] User added to sudo group: pedrohb
+2026-01-30 11:11:50 [INFO] Password locked for user: pedrohb
+2026-01-30 11:13:09 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:13:09 [ERROR] SSH key rotation failed
+2026-01-30 11:16:05 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:16:05 [ERROR] No inventory entry found for pedrohb on srv697037.hstgr.cloud
+2026-01-30 11:39:05 [WARN] User already exists: pedrohb
+2026-01-30 11:39:05 [INFO] User pedrohb added to sudo and password locked
+2026-01-30 11:39:12 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:39:13 [ERROR] SSH key rotation failed
+2026-01-30 11:40:01 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:40:02 [ERROR] SSH key rotation failed
+2026-01-30 11:43:45 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:43:47 [INFO] SSH token generated for pedrohb fingerprint=SHA256:D6ALuG+BOXqN+3OZ18Qxn2gE9F1cdg8DhqKTJ27E0sA
+2026-01-30 11:44:28 [INFO] User deleted with home: pedrohb
+2026-01-30 11:44:36 [INFO] User created: pedrohb home=/home/pedrohb
+2026-01-30 11:44:36 [INFO] User pedrohb added to sudo and password locked
+2026-01-30 11:44:42 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:44:42 [INFO] SSH token generated for pedrohb fingerprint=SHA256:E0V0h/DhvDrSCXTdJvRlzgjldzHnNsrQzW98SabYpmg
+2026-01-30 11:48:51 [WARN] Removing ALL SSH keys for user=pedrohb in /usr/local/sysadmin/ssh/pedrohb
+2026-01-30 11:48:51 [WARN] Deleting Linux user and home for user=pedrohb
+2026-01-30 11:48:51 [INFO] Linux user deleted with home: pedrohb
+2026-01-30 11:49:06 [INFO] User created: pedrohb home=/home/pedrohb
+2026-01-30 11:49:06 [INFO] User pedrohb added to sudo and password locked
+2026-01-30 11:49:13 [INFO] Generating SSH token for user=pedrohb host=srv697037.hstgr.cloud
+2026-01-30 11:49:14 [INFO] SSH token generated for pedrohb fingerprint=SHA256:4v7KKs6GtOXj/yik3AKZ8W3XwM19AbHy5WR5fVg4yX0
+2026-01-30 11:52:14 [INFO] Generating SSH token for user=n8n host=srv697037.hstgr.cloud
+2026-01-30 11:52:15 [INFO] SSH token generated for n8n fingerprint=SHA256:MmNnaj+7Jnjl+5K6Q9nMbNwJt0O8X9ollF0zWhsXvPo

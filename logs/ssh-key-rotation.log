@@ -1,0 +1,30 @@
+2026-01-30 11:39:12 [INFO] Generating SSH key UUID=9c1f2216-c06a-423a-aef7-dfa2573bfdb8 for user=pedrohb
+2026-01-30 11:40:01 [INFO] Generating SSH key UUID=65d07745-a6a9-4e5b-9d72-e50e1b595d7f for user=pedrohb
+2026-01-30 11:43:45 [INFO] Generating SSH key for user=pedrohb uuid=0e16858f-2e3c-419c-8de3-09d0ce993160
+2026-01-30 11:43:47 [INFO] SSH key generated successfully
+2026-01-30 11:43:47 [INFO] User=pedrohb
+2026-01-30 11:43:47 [INFO] UUID=0e16858f-2e3c-419c-8de3-09d0ce993160
+2026-01-30 11:43:47 [INFO] Private=/usr/local/sysadmin/ssh/pedrohb/0e16858f-2e3c-419c-8de3-09d0ce993160.pem
+2026-01-30 11:43:47 [INFO] Public=/usr/local/sysadmin/ssh/pedrohb/0e16858f-2e3c-419c-8de3-09d0ce993160.pub
+2026-01-30 11:43:47 [INFO] Fingerprint=SHA256:D6ALuG+BOXqN+3OZ18Qxn2gE9F1cdg8DhqKTJ27E0sA
+2026-01-30 11:44:42 [INFO] Generating SSH key for user=pedrohb uuid=de4c75b2-969e-405f-930f-47fdae02f1f3
+2026-01-30 11:44:42 [INFO] SSH key generated successfully
+2026-01-30 11:44:42 [INFO] User=pedrohb
+2026-01-30 11:44:42 [INFO] UUID=de4c75b2-969e-405f-930f-47fdae02f1f3
+2026-01-30 11:44:42 [INFO] Private=/usr/local/sysadmin/ssh/pedrohb/de4c75b2-969e-405f-930f-47fdae02f1f3.pem
+2026-01-30 11:44:42 [INFO] Public=/usr/local/sysadmin/ssh/pedrohb/de4c75b2-969e-405f-930f-47fdae02f1f3.pub
+2026-01-30 11:44:42 [INFO] Fingerprint=SHA256:E0V0h/DhvDrSCXTdJvRlzgjldzHnNsrQzW98SabYpmg
+2026-01-30 11:49:14 [INFO] Generating SSH key for user=pedrohb uuid=0e6770cc-5e12-4db0-9657-ad2de2515e8d
+2026-01-30 11:49:14 [INFO] SSH key generated successfully
+2026-01-30 11:49:14 [INFO] User=pedrohb
+2026-01-30 11:49:14 [INFO] UUID=0e6770cc-5e12-4db0-9657-ad2de2515e8d
+2026-01-30 11:49:14 [INFO] Private=/usr/local/sysadmin/ssh/pedrohb/0e6770cc-5e12-4db0-9657-ad2de2515e8d.pem
+2026-01-30 11:49:14 [INFO] Public=/usr/local/sysadmin/ssh/pedrohb/0e6770cc-5e12-4db0-9657-ad2de2515e8d.pub
+2026-01-30 11:49:14 [INFO] Fingerprint=SHA256:4v7KKs6GtOXj/yik3AKZ8W3XwM19AbHy5WR5fVg4yX0
+2026-01-30 11:52:14 [INFO] Generating SSH key for user=n8n uuid=b9e90b7f-f160-4a50-b1fd-b97c77657ccf
+2026-01-30 11:52:15 [INFO] SSH key generated successfully
+2026-01-30 11:52:15 [INFO] User=n8n
+2026-01-30 11:52:15 [INFO] UUID=b9e90b7f-f160-4a50-b1fd-b97c77657ccf
+2026-01-30 11:52:15 [INFO] Private=/usr/local/sysadmin/ssh/n8n/b9e90b7f-f160-4a50-b1fd-b97c77657ccf.pem
+2026-01-30 11:52:15 [INFO] Public=/usr/local/sysadmin/ssh/n8n/b9e90b7f-f160-4a50-b1fd-b97c77657ccf.pub
+2026-01-30 11:52:15 [INFO] Fingerprint=SHA256:MmNnaj+7Jnjl+5K6Q9nMbNwJt0O8X9ollF0zWhsXvPo
